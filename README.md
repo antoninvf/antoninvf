@@ -4,7 +4,7 @@
 - 🌱 Learning C#, Java, Python and web development
 - ⚡ Interested in making Minecraft mods and plugins
 - 💬 Making a Discord.NET bot
-- 🎮 Also working on a game in Unity
+- ⚛ Currently working on a React and ASP.Net project
 <br>
 
 ![Antonín's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoninvf&count_private=true&show_icons=true&theme=radical&hide=prs)

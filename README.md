@@ -1,5 +1,3 @@
-
-
 <h1 align="center">welcome to my github page 👁️</h1>
 <table align="center">
 	<tr>
@@ -13,8 +11,8 @@
 </table>
 
 ### I'm a full-stack developer that loves to code silly things and do web development for work. 
-I love coding in C# but was taught Java in high school and that's mainly how I got into programming. I know C#, Java/Kotlin, JavaScript/TypeScript and for web development I use React and Next.js mostly.
 
+I love coding in C# but was taught Java in high school and that's mainly how I got into programming. I know C#, Java/Kotlin, JavaScript/TypeScript and for web development I use React and Next.js mostly.
 - What I do at work
   - Backend work in Kotlin using Spring Boot
   - Frontend work in Next.js/React
@@ -33,3 +31,5 @@ I love coding in C# but was taught Java in high school and that's mainly how I g
    - Listening to music using Plexamp and tracking it via [last.fm](https://www.last.fm/user/flowyan)
      - You can see the song I'm currently listening to on my [site](https://flwn.dev)
    - I like making Minecraft mods and plugins for my own servers
+
+that's about it :) 

@@ -10,7 +10,7 @@
 	</tr>
 </table>
 
-### I'm a full-stack developer that loves to code silly things and do web development for work. 
+### Software developer that loves to code silly things and do web development for work. 
 
 I love coding in C# but was taught Java in high school and that's mainly how I got into programming. I know C#, Java/Kotlin, JavaScript/TypeScript and for web development I use React and Next.js mostly.
 #### What I do at work
